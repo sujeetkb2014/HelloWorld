@@ -1,0 +1,4 @@
+---
+- name: This is the first playbook for Hello World
+  debug:
+    msg: "Hello World"
